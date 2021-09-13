@@ -7,9 +7,12 @@
 **To work with vector.py file and paste it in you ML code**
 
 It contains functions that do basic vector work -
-  - Print 
-  - return magnitude 
-  - return normal vecotor 
-  - Add 2 vectors 
-  - subtract 2 vectors 
-  - scalar multiplication
+
+- Print
+- return magnitude
+- return normal vecotor
+- Add 2 vectors
+- subtract 2 vectors
+- scalar multiplication
+
+### 2. Statistics
