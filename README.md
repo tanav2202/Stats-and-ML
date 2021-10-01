@@ -16,3 +16,11 @@ It contains functions that do basic vector work -
 - scalar multiplication
 
 ### 2. Statistics
+
+Jupyter Notebook that includes Stats and related theorems and problems
+
+It contains
+  - Uniform Distribution
+  - Conditional Probability
+  - Bayes Theorm 
+  - ......More will be added soon
