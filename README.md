@@ -36,7 +36,7 @@ Uniform Distribution and Monte Carlo
 
 Bayes Theorem and Conditional Probability
   - True Positives in Swine Flue Testing
-  - More coming soon
+  - ....More coming soon
   
     
 
