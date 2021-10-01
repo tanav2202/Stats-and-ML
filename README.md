@@ -1,6 +1,6 @@
 # 100-days-python-and-Ml
 
-## Here I will add the code I write and map out my journey for 100 Days of Python and ML that i am doing
+## Here I will add the code I write for 100 Days of Python and ML that i am doing
 
 ### 1. Linear Algebra Template for future use
 
