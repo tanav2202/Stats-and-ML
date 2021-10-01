@@ -21,6 +21,18 @@ Jupyter Notebook that includes Stats and related theorems and problems
 
 It contains
   - Uniform Distribution
+  - Monte Carlo Simulation 
   - Conditional Probability
   - Bayes Theorm 
   - ......More will be added soon
+
+Problem Questions Include
+
+  - Uniform Distribution and Monte Carlo
+      - Unbaised Coin Toss
+      - Unbaised Dice
+      - Monty Hall Problem
+      - Birthday Problem
+    - bayes Theorem and Conditional Probability
+       -Testing for True Positive in Swine Flu Virus
+         
