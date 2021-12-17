@@ -38,5 +38,7 @@ Bayes Theorem and Conditional Probability
   - True Positives in Swine Flue Testing
   - ....More coming soon
   
+  ## 3. Kaggle Notebook Store 
+   - Covid Info and Analysis
     
 
