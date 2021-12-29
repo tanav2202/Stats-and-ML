@@ -1,13 +1,11 @@
 
 
-## Here I will add the code I write for of Python and ML that i am doing
+# Index of Repository
 
 ## 1. Linear Algebra 
 
-**To work with vector.py file and paste it in you ML code**
-
-It contains functions that do basic vector work -
-
+### Vector.py file
+Functions on one or more vectors-
 - Print
 - return magnitude
 - return normal vecotor
@@ -16,29 +14,65 @@ It contains functions that do basic vector work -
 - scalar multiplication
 
 ## 2. Statistics
+## My Articles on Theory Behind this [Medium Blog (click)](https://medium.com/@tanav2202/list/statistics-0b6dca343c41)
 
-Jupyter Notebook that includes Stats and related theorems and problems
+Stats Jupyter Notebook Includes- <br>
+_This Jupyter Notebook is by Prof. Andrew Thangaraj (IITM Stats)_
 
-### It contains
+### Code for Theoretical Topics
   - Uniform Distribution
   - Monte Carlo Simulation 
   - Conditional Probability
   - Bayes Theorm 
-  - ......More will be added soon
+  - Expected Values of Common Distributions
+  - Common Distributions Visualization
+    - Uniform Distribution
+    - Exponential Distribution
+    - Normal Distribution
+   - Fitting a distribution and estimating parameters
+   - Fitting a Gamma Distribution
+   - Method Of Moments
+   - Confidence Intervals
+   - Maximum Likelihood
+ 
 
-### Problem Questions Include
+### Examples of use cases 
 
-Uniform Distribution and Monte Carlo
+  - Monte Carlo
   - Unbaised Coin Toss
   - Unbaised Dice
   - Monty Hall Problem
   - Birthday Problem
-
-Bayes Theorem and Conditional Probability
-  - True Positives in Swine Flue Testing
-  - ....More coming soon
+  - Polya's Urn Scheme
+  - Gambler's Ruin
+  - Biased Coin toss
+  - Biased Gamblers Ruin
+  - Casino Die game
+  - Balls and Bins
   
-  ## 3. Kaggle Notebook Store 
-   - Covid Info and Analysis
+## 3. Kaggle Notebook Store 
+### Covid Info and Analysis
+   - Overview
+   - Initialization 
+      - Importing the dataset
+   - Importing Libraries
+   - Reading Dataset
+   - Data Cleaning
+      - World Dataset
+      - Indian Vaccination Dataset
+   - Data Visualization
+      - World Dataset
+      - Indian Dataset
+      - World Vaccination Situation
+      - India vs Pakistan vs China Vaccination Situstion
+      - Indian Vaccination situation
+         - Testing 
+         - Result of Testing
+         - Vaccination Situation
+
+     - Attempt at Linear Regression on Indian States Dataset
+        - This is an attempt ( failed one) at finding a linear relationship between Cases per day and Deaths per day in various states of india
+      
+
     
 
