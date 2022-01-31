@@ -51,4 +51,4 @@ class Vector(object):
         new_coordinates = []
         new_coordinates = [round(c*x, 3) for x in self.coordinates]
         return Vector(new_coordinates)
-      
+    
