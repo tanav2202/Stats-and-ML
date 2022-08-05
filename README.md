@@ -68,7 +68,7 @@ _This Jupyter Notebook is by Prof. Andrew Thangaraj (IITM Stats)_
   - World Dataset
   - Indian Dataset
   - World Vaccination Situation
-  - India vs Pakistan vs China Vaccination Situstion
+  - India vs Pakistan vs China Vaccination Situation
   - Indian Vaccination situation
 
     - Testing
